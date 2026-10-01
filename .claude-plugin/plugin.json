@@ -1,0 +1,13 @@
+{
+  "name": "paved-road",
+  "version": "0.1.0",
+  "description": "Agent skills for designing and reviewing self-service edge/platform infrastructure: async provisioning brokers, template+context config control planes, golden images, edge/sidecar offload, guardrail validation, and churn hotspot refactoring.",
+  "author": {
+    "name": "chip-cookie",
+    "url": "https://github.com/chip-cookie"
+  },
+  "homepage": "https://github.com/chip-cookie/paved-road-Skills",
+  "repository": "https://github.com/chip-cookie/paved-road-Skills",
+  "license": "MIT",
+  "keywords": ["skills", "platform-engineering", "golden-path", "envoy", "infrastructure", "architecture-review", "sre"]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "paved-road",
+  "version": "0.1.0",
+  "description": "Agent skills for designing and reviewing self-service edge/platform infrastructure.",
+  "author": {
+    "name": "chip-cookie",
+    "url": "https://github.com/chip-cookie"
+  },
+  "homepage": "https://github.com/chip-cookie/paved-road-Skills",
+  "repository": "https://github.com/chip-cookie/paved-road-Skills",
+  "license": "MIT",
+  "keywords": ["skills", "platform-engineering", "golden-path", "envoy", "infrastructure", "architecture-review"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Paved Road",
+    "shortDescription": "Platform engineering skills: self-service provisioning, config control planes, golden images, guardrails",
+    "longDescription": "Use Paved Road to review and build self-service edge/platform infrastructure: async provisioning APIs, template+context config rendering, golden-image fleet rollouts, edge/sidecar offload of auth and rate limiting, guardrail validation against traffic blackholes, and churn hotspot refactoring.",
+    "developerName": "chip-cookie",
+    "category": "Developer Tools",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "defaultPrompt": [
+      "Review this platform design with edge-architecture-review.",
+      "Find the top refactor targets in this repo with churn-hotspot-refactor."
+    ],
+    "websiteURL": "https://github.com/chip-cookie/paved-road-Skills"
+  }
+}

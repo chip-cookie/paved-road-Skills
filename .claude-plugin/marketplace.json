@@ -1,0 +1,16 @@
+{
+  "name": "paved-road",
+  "description": "Platform engineering skills for coding agents",
+  "owner": {
+    "name": "chip-cookie",
+    "url": "https://github.com/chip-cookie"
+  },
+  "plugins": [
+    {
+      "name": "paved-road",
+      "source": "./",
+      "description": "Design and review self-service edge/platform infrastructure with 7 skills",
+      "version": "0.1.0"
+    }
+  ]
+}

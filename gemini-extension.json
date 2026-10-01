@@ -1,0 +1,6 @@
+{
+  "name": "paved-road",
+  "version": "0.1.0",
+  "description": "Platform engineering skills: self-service provisioning, config control planes, golden images, edge offload, guardrails, churn hotspots",
+  "contextFileName": "GEMINI.md"
+}
